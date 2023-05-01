@@ -1,2 +1,2 @@
  Optimizing bivariate reinsurance contracts in the UNRESTRICTED, bivariate case using the C0-function as objective function. This script combines optimization of A using the method in righthand_02.py (Stage 1, 3 and 4) and optimization of B1 and B2 using the method num_opt2.py (Stage 2) The expected insured risk is calculated using the built-in partial mean functions in the dist lib.  
-Code provided by professor Arne Huseby, utilized by Andreas Christensen 60 ECTS Master's Thesis "Optimising Multivariate Reinsurance Contracts", spring 2023.
+Code provided by professor Arne Huseby, utilized by Andreas Christensen 60 ECTS Master's Thesis "Optimal Reinsurance in a Multivariate Case", spring 2023.
